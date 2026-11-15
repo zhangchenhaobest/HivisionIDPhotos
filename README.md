@@ -1,3 +1,29 @@
+# HivisionIDPhotos
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+A lightweight and efficient AI tool for generating ID photos.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+轻量高效的 AI 证件照制作工具。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center">
 
 <img alt="hivision_logo" src="assets/hivision_logo.png" width=120 height=120>
